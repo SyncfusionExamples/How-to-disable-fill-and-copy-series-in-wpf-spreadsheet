@@ -28,10 +28,10 @@ private void Spreadsheet_WorksheetAdded(object sender, Syncfusion.UI.Xaml.Spread
 }
 ```
 
-Below is the screen shot when `AllowFillSeries` is `false`.
+Below is the screen shot when **AllowFillSeries** is **false**.
 
 ![AllowFillSeries is false](https://www.syncfusion.com/uploads/user/kb/wpf/wpf-48439/wpf-48439_img1.png)
 
-Below is the screen shot when `AllowFillSeries` is `true`.
+Below is the screen shot when **AllowFillSeries** is **true**.
 
 ![AllowFillSeries is true](https://www.syncfusion.com/uploads/user/kb/wpf/wpf-48439/wpf-48439_img2.png)
