@@ -1,6 +1,6 @@
-# How to disable fill and copy series in WPF Spreadsheet
+# How to disable fill and copy series in WPF Spreadsheet?
 
-This example illustrates how to disable fill and copy series in Spreadsheet.
+This example illustrates how to disable fill and copy series in WPF Spreadsheet.
 
 [WPF Spreadsheet](https://www.syncfusion.com/wpf-controls/spreadsheet) (SfSpreadsheet) has the built-in support to fill the values across the rows and columns by dragging the fill handle of the cell containing value or any formula within it. If you want to disable fill and copy series in **spreadsheet** by setting [AllowFillSeries](https://help.syncfusion.com/cr/wpf/Syncfusion.UI.Xaml.Spreadsheet.FillSeriesController.html#Syncfusion_UI_Xaml_Spreadsheet_FillSeriesController_AllowFillSeries) property of [FillSeriesController](https://help.syncfusion.com/cr/wpf/Syncfusion.UI.Xaml.Spreadsheet.SpreadsheetGrid.html#Syncfusion_UI_Xaml_Spreadsheet_SpreadsheetGrid_FillSeriesController) to **false** in [WorkbookLoaded](https://help.syncfusion.com/cr/wpf/Syncfusion.UI.Xaml.Spreadsheet.SfSpreadsheet.html#Syncfusion_UI_Xaml_Spreadsheet_SfSpreadsheet_WorkbookLoaded) event.
 
